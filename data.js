@@ -128,7 +128,7 @@ var majorArcana = [
     {
         name: "The Moon",
         past: "Your current struggle is likely wrapped up in a recent period of confusion. You may have used your creativity to make order from the chaos to help you cope. You made the best of your past as you could, look back on those days as having been fruitful rather than negative.",
-        present: "You are getting so many mixed signals from life right now. Things that have comforted you in the past are no longer there to sooth you. Temptations threaten to take over, and you are falling out of reality. This is a chance to better yourself by not believing in the false assumptions of societal norms. Create your own way, live a life of your own design.",
+        present: "You are getting so many mixed signals from life right now. Things that have comforted you in the past are no longer there to soothe you. Temptations threaten to take over, and you are falling out of reality. This is a chance to better yourself by not believing in the false assumptions of societal norms. Create your own way, live a life of your own design.",
         future: "You may soon find yourself wandering from your current path and what is important to you to pursue a hobby or path that is entirely different. If you are in a creative field, afflictions like boredom, or staleness will soon be forgotten as you are hit with a rush of inspiration.",
         image: "images/moon.png"
     },

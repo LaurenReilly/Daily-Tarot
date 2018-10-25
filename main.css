@@ -28,13 +28,19 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     width: 90%;
-    background-color: #f4f4f4;
+    background-color: #fDDD98;
     margin: 0 auto 5em auto;
     border-radius: 5px;
 }
 
+img {
+    border-radius: 5px;
+}
+
 button {
-    width: 10em;
+    width: 12em;
+    height: 8em;
+    border: none;
     border-radius: 5px;
     background-color: black;
     color: white;
@@ -46,14 +52,17 @@ button {
 button:hover,
 button:focus {
     background: #0c5663;
+    border: none;
 }
 
 button:focus {
     outline: 0px;
+    border: none;
 }
 
 button:active {
     transform: scale(0.99);
+    border: none;
 }
 
 .container {
@@ -61,6 +70,8 @@ button:active {
     flex-direction: column;
     align-items: center;
     padding: 3em 0 3em 0;
+    width: 300px;
+    height: 800px;
 }
 
 .text {
