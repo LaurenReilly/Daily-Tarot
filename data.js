@@ -152,5 +152,5 @@ var majorArcana = [
         present: "You are at a powerfully affirming climax in your life. The culmination of hard work and dreams about to be achieved. Though you may be getting what you have always wanted don't be surprised if you are facing a lot of anxiety because this kind of situation is very rare in life. Be careful not to sabotage your recent gains due to anxiety, enjoy the fruits of your labor.",
         future: "You must keep your dreams alive. You are probably questioning your ability to put the necessary energy into achieving your dream, this card is telling you to move forward with vigor and confidence. You have a lot to offer and a great ability to achieve.",
         image: "images/world.png"
-    },
+    }
 ]
